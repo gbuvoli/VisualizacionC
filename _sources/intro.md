@@ -1,1 +1,2 @@
-# Tarea 2 - Gina Buvoli - Linda Herrera
+# TAREA 2 VISUALIZACIÓN CIENTÍFICA
+
